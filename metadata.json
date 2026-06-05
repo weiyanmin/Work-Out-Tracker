@@ -1,0 +1,6 @@
+{
+  "name": "Fit Timer",
+  "description": "An elegant, high-performance fitness interval timer that loops customizable count-up exercises and rest periods with clear acoustic count beeps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
